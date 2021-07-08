@@ -8,5 +8,5 @@ scalaVersion := "2.13.6"
 enablePlugins(JavaAppPackaging)
 
 libraryDependencies ++= List(
-  "org.typelevel" %% "squants" % "1.6.0"
+  "org.typelevel" %% "squants" % "1.8.0"
 )
